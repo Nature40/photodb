@@ -1,0 +1,11 @@
+/.gradle
+/.settings
+/bin
+/build
+/cache
+/log
+/package
+/.classpath
+/.project
+/accounts.yaml
+/config.yaml
