@@ -1,5 +1,15 @@
 # PhotoDB
 
+# **PhotoDB has been merged into [AudioDB](https://github.com/Nature40/audiodb).**
+
+For current releases of AudioDB/PhotoDB refer to [https://github.com/Nature40/audiodb](https://github.com/Nature40/audiodb)
+
+---
+---
+---
+
+*Outdated information:*
+
 This repository contains sources, documentation and release packages of PhotoDB.  
 
 Requirements: [Java 11 (or newer)](https://adoptium.net)
