@@ -1,6 +1,8 @@
 # PhotoDB
 
-# **PhotoDB has been merged into [AudioDB](https://github.com/envima/audiodb).**
+# **PhotoDB has been merged into [AudioDB / PhotoDB](https://github.com/envima/audiodb).**
+
+# [>>>**Documentation homepage**<<<](https://envima.github.io/photodb/)
 
 For current releases of AudioDB/PhotoDB refer to [https://github.com/envima/audiodb](https://github.com/envima/audiodb)
 
