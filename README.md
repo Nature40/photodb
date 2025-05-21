@@ -1,8 +1,8 @@
 # PhotoDB
 
-# **PhotoDB has been merged into [AudioDB](https://github.com/Nature40/audiodb).**
+# **PhotoDB has been merged into [AudioDB](https://github.com/envima/audiodb).**
 
-For current releases of AudioDB/PhotoDB refer to [https://github.com/Nature40/audiodb](https://github.com/Nature40/audiodb)
+For current releases of AudioDB/PhotoDB refer to [https://github.com/envima/audiodb](https://github.com/envima/audiodb)
 
 ---
 ---
